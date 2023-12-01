@@ -2,7 +2,7 @@
 
 <body>
 <h2>Enunciado</h2>
-<p>A Wild Life é uma plataforma com acesso híbrido através do site ou aplicativo, que visa a otimização na ato de armazenamento e manipulação dos dados referidos aos animais silvestres, e aos profissionais responsáveis pela apreensão e soltura desses animais, a plataforma substituí o modelo atual feito manualmente.</p>
+<p>A Wild Life é uma plataforma com acesso híbrido através do site ou aplicativo, que visa a otimização no ato de armazenamento e manipulação dos dados referidos aos animais silvestres, e aos profissionais responsáveis pela apreensão e soltura desses animais, a plataforma substituí o modelo atual feito manualmente.</p>
 
 ![capa 000](https://github.com/isabelafariass/WildLife-appMobile/assets/128806277/a70814d2-25ad-4811-84f6-b386548831c3)
 
